@@ -1,2 +1,2 @@
-# Hospital-Emergency-Queue-Manager
-Hospital-Emergency-Queue-Manager
+# Hospital-Emergency-Manager
+Hospital-Emergency-Manager
